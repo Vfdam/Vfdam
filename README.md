@@ -1,10 +1,8 @@
-# 👋 ¡Hola! Soy Vfdam
+# 👋 Soy Vfdam
 
 ### Desarrollador Especializado en PHP 
 
 Soy un Aprendiz de Software en la creación y optimización de sistemas , con un enfoque particular en el desarrollo de plugins para **PocketMine-MP**.
-
-Mi pasión es transformar la lógica de negocio compleja en código limpio, eficiente y escalable.
 
 ---
 
