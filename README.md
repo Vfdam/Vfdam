@@ -30,7 +30,7 @@ Estoy abierto a oportunidades.
 *   **Correo Electrónico:** [josephnenewalter@gmail.com]
 
 <p align="center">
-  <a href="mailto:tu.correo@ejemplo.com">
+  <a href="josephnenewalter@gmail.com">
     <img src="https://img.shields.io/badge/Contáctame-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Contact Me Badge">
   </a>
 </p>
